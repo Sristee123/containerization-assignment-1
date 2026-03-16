@@ -403,7 +403,7 @@ docker-compose down
 docker-compose up -d
 
 ```
-![](./images/19.png)
+![](./images/29.png)
 
 ---
 
